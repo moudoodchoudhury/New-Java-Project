@@ -18,5 +18,11 @@ public class ReverseInteger {
 		// 2. Using StringBUffer Method:
 		int num1 = 935362565;
 		System.out.println("Reverse Number is:" + new StringBuffer(String.valueOf(num1)).reverse());
+		
+		int com=987654;
+		
+		System.out.println(new StringBuffer(String.valueOf(com)).reverse());
+		
+		
 	}
 }

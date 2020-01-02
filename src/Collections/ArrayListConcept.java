@@ -24,6 +24,7 @@ public class ArrayListConcept {
 		ar5.add("Dubai");
 		
 		
+		
 		System.out.println(ar5);
 		
 		

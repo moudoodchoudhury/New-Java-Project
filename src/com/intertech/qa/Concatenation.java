@@ -8,7 +8,7 @@ public class Concatenation {
 		
 		System.out.println("My name is : " + name);
 		
-
+   System.out.println(name.concat(" "+ "choudhury"));
 	}
 
 }

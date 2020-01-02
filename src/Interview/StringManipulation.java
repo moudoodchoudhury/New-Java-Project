@@ -46,6 +46,11 @@ public class StringManipulation {
 
 		String s3 = "Care";
 		System.out.println(s3.concat("s"));
+		
+		String z ="abdul";
+		System.out.println(z.concat(" "+"hye"));
+		
+	
 
 	}
 
